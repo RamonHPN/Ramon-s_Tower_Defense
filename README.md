@@ -8,6 +8,8 @@ Este repositório contém o código-fonte e o arquivo executável (JAR) do jogo 
 ### Requisitos
 - Certifique-se de ter o Java Runtime Environment (JRE) instalado na sua máquina.
 
+
+
 ### Para Usuários do Linux
 
 1. **Clone o Repositório:**
@@ -15,9 +17,11 @@ Este repositório contém o código-fonte e o arquivo executável (JAR) do jogo 
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
 2. **Navegue até o Diretório do Projeto via terminal:**
+   ```bash
    cd seu-repositorio
 
 3. **Execute o jogo via terminal:** 
+   ```bash
    java -jar Ramon_s_Tower_Defense.jar
 
 ### Para Usuários do Windows
@@ -27,7 +31,9 @@ Este repositório contém o código-fonte e o arquivo executável (JAR) do jogo 
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
 2. **Navegue até o Diretório do Projeto via CMD:**
+   ```bash
    cd seu-repositorio
 
 3. **Execute o jogo via CMD:** 
+   ```bash
    java -jar Ramon_s_Tower_Defense.jar

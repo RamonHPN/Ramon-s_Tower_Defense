@@ -14,7 +14,7 @@ Este repositório contém o código-fonte e o arquivo executável (JAR) do jogo 
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   [git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/RamonHPN/Ramon-s_Tower_Defense.git)
 
 2. **Navegue até o Diretório do Projeto via terminal:**
    ```bash

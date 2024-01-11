@@ -12,7 +12,7 @@ Este repositório contém o código-fonte e o arquivo executável (JAR) do jogo 
 
 1. **Baixe o Arquivo .jar:**
 
-Você pode baixar o arquivo .jar diretamente clicando no Ramon_s_Tower_Defense.jar e depois clicando no icone de Download Raw File. Após isso, basta clicar no arquivo que foi baixado no seu computador e jogar.
+- Você pode baixar o arquivo .jar diretamente clicando no Ramon_s_Tower_Defense.jar e depois clicando no icone de Download Raw File. Após isso, basta clicar no arquivo que foi baixado no seu computador e jogar.
 
 ### Para Usuários do Linux que quiserem clonar o repositório
 
@@ -22,7 +22,7 @@ Você pode baixar o arquivo .jar diretamente clicando no Ramon_s_Tower_Defense.j
 
 2. **Navegue até o Diretório do Projeto via terminal:**
    ```bash
-   cd Ramon's_Tower_Defense/dist/
+   cd Ramon's_Tower_Defense\dist\
 
 3. **Execute o jogo via terminal:** 
    ```bash
@@ -36,7 +36,7 @@ Você pode baixar o arquivo .jar diretamente clicando no Ramon_s_Tower_Defense.j
 
 2. **Navegue até o Diretório do Projeto via CMD:**
    ```bash
-   cd Ramon's_Tower_Defense/dist/
+   cd Ramon's_Tower_Defense\dist\
 
 3. **Execute o jogo via CMD:** 
    ```bash
